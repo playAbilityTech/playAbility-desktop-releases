@@ -12,13 +12,14 @@ Before proceeding with the installation of the playAbility Desktop App, please e
 
 ### Installing the ViGEm Bus Driver
 
-1. **Download the latest release of ViGEm Bus Driver from the official GitHub page.** The page is available at `https://github.com/ViGEm/ViGEmBus/releases`
+1. **Download the latest release of ViGEm Bus Driver from the official GitHub page.** You can find the page at the following URL: [ViGEm Bus Driver Releases](https://github.com/ViGEm/ViGEmBus/releases)
    
 2. **Follow the installation prompts.** If User Account Control prompts you, grant it administrative privileges.
 
 ### Installing the playAbility Desktop App
 
-1. **Download the playAbility Desktop App installer from the GitHub repository.**
+1. **Download the playAbility Desktop App installer from the official GitHub repository.** The page is available at the following URL: [https://github.com/playAbilityTech/playAbility-desktop-releases/releases](https://github.com/playAbilityTech/playAbility-desktop-releases/releases)
+
 
 2. **Run the Installer.** As our app is currently not code signed, you might encounter alerts or warnings from Windows during this process. This is expected behavior and it's safe to proceed with the installation. Follow the on-screen instructions to install the playAbility Desktop Application. If User Account Control prompts you, grant it administrative privileges.
 
@@ -28,7 +29,7 @@ Please note, while we are working towards getting our app code signed to avoid t
 After successful installation, run the playAbility application. You can then start customizing your game settings, key-mappings, and controller handling. For further assistance, refer to our official documentation or the in-app help guide.
 
 ## Troubleshooting
-In case of any issues with the application, please consult our FAQ section in the official documentation. If your issue still persists, feel free to raise a ticket on our GitHub issue tracker at `https://github.com/<YourGitHub>/playAbility/issues`.
+In case of any issues with the application, please consult our FAQ section in the official documentation. If your issue still persists, feel free to raise a ticket on our GitHub issue tracker
 
 ## Contributing
 We welcome and appreciate any contributions to the playAbility Desktop Application. For guidelines on contributing, please refer to the CONTRIBUTING.md file in our GitHub repository.
