@@ -6,7 +6,9 @@ Before proceeding with the installation of the playAbility Desktop App, please e
 
 - A Windows system with Windows 10 or later versions.
 - Latest ViGEm Bus Driver.
+- .NET Desktop Runtime
 - Administrative privileges for the installation.
+- 
 
 ## Installation
 
@@ -16,7 +18,14 @@ Before proceeding with the installation of the playAbility Desktop App, please e
    
 2. **Follow the installation prompts.** If User Account Control prompts you, grant it administrative privileges.
 
+### Installing the .NET Desktop Runtime
+
+1. **Download the latest release of .NET Desktop Runtime from the official Microsoft page.** You can access the download page by clicking this link: [.NET Desktop Runtime Releases](https://dotnet.microsoft.com/en-us/download/dotnet/7.0). Once there, choose ".NET Desktop Runtime". Here is a direct download link for the [.NET Desktop Runtime 7.0.8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.8-windows-x64-installer).
+
+2. **Follow the installation prompts.** If User Account Control prompts you, grant it administrative privileges.
+
 ### Installing the playAbility Desktop App
+
 
 1. **Download the playAbility Desktop App installer from the official GitHub repository.** The page is available at the following URL: [https://github.com/playAbilityTech/playAbility-desktop-releases/releases](https://github.com/playAbilityTech/playAbility-desktop-releases/releases)
 
