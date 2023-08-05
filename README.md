@@ -8,7 +8,6 @@ Before proceeding with the installation of the playAbility Desktop App, please e
 - Latest ViGEm Bus Driver.
 - .NET Desktop Runtime
 - Administrative privileges for the installation.
-- 
 
 ## Installation
 
